@@ -1,0 +1,4 @@
+view\graphic\ViewInputGuess.class
+view\graphic\ViewValidator.class
+controller\graphic\ControllerFx.class
+model\util\Loader.class
